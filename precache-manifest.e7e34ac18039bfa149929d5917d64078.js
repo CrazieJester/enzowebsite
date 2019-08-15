@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42bf14b9c73c3ee7879a28d008d118ae",
+    "revision": "fc149635bc3b5d2dcea2caa9f7991c45",
     "url": "/enzowebsite/index.html"
   },
   {
-    "revision": "229bd2a19398f6a26936",
+    "revision": "a916b92a689e4efc1e69",
     "url": "/enzowebsite/static/css/main.ba49ec77.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enzowebsite/static/js/2.13cecab4.chunk.js"
   },
   {
-    "revision": "229bd2a19398f6a26936",
-    "url": "/enzowebsite/static/js/main.3321c1e7.chunk.js"
+    "revision": "a916b92a689e4efc1e69",
+    "url": "/enzowebsite/static/js/main.689895ba.chunk.js"
   },
   {
     "revision": "724deef58dd3f67396f5",
     "url": "/enzowebsite/static/js/runtime~main.f724c921.js"
   },
   {
-    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
-    "url": "/enzowebsite/static/media/logo.ee7cd8ed.svg"
+    "revision": "aec31b6adae6009e08145da4ed299768",
+    "url": "/enzowebsite/static/media/jacob.aec31b6a.png"
   }
 ]);
