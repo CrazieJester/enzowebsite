@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/enzowebsite/precache-manifest.e7e34ac18039bfa149929d5917d64078.js"
+  "/enzowebsite/precache-manifest.99088ade38f91d3b49388c0d68cc69d9.js"
 );
 
 self.addEventListener('message', (event) => {
