@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5f61a60f8bc3e415483ecfc423f76fa",
+    "revision": "a38da8d2e3c53cf6efcd892434c402b5",
     "url": "/enzowebsite/index.html"
   },
   {
-    "revision": "c6c7716154a7f6e6bf27",
+    "revision": "d8bfe24ece9a04e233b5",
     "url": "/enzowebsite/static/css/main.aedd16b5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enzowebsite/static/js/2.5729a55a.chunk.js"
   },
   {
-    "revision": "c6c7716154a7f6e6bf27",
-    "url": "/enzowebsite/static/js/main.47ba5406.chunk.js"
+    "revision": "d8bfe24ece9a04e233b5",
+    "url": "/enzowebsite/static/js/main.5c614dda.chunk.js"
   },
   {
     "revision": "724deef58dd3f67396f5",
