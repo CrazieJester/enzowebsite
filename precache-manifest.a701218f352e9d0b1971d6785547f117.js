@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe8af27ba383fb40f1b7d5d29b820d23",
+    "revision": "34b371ea183c8428c39a28f5a7045ca7",
     "url": "/enzowebsite/index.html"
   },
   {
-    "revision": "9204be443cb368dced0d",
+    "revision": "d315103728cad9762f80",
     "url": "/enzowebsite/static/css/main.ba49ec77.chunk.css"
   },
   {
-    "revision": "10f85d2794231c694d4b",
-    "url": "/enzowebsite/static/js/2.13cecab4.chunk.js"
+    "revision": "cbbb7e7b7e736d41799d",
+    "url": "/enzowebsite/static/js/2.19eba833.chunk.js"
   },
   {
-    "revision": "9204be443cb368dced0d",
-    "url": "/enzowebsite/static/js/main.de12defd.chunk.js"
+    "revision": "d315103728cad9762f80",
+    "url": "/enzowebsite/static/js/main.ac2615f6.chunk.js"
   },
   {
     "revision": "724deef58dd3f67396f5",
