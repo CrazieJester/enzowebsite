@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/enzowebsite/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/enzowebsite/static/js/main.689895ba.chunk.js",
-    "main.js.map": "/enzowebsite/static/js/main.689895ba.chunk.js.map",
+    "main.js": "/enzowebsite/static/js/main.de12defd.chunk.js",
+    "main.js.map": "/enzowebsite/static/js/main.de12defd.chunk.js.map",
     "runtime~main.js": "/enzowebsite/static/js/runtime~main.f724c921.js",
     "runtime~main.js.map": "/enzowebsite/static/js/runtime~main.f724c921.js.map",
     "static/js/2.13cecab4.chunk.js": "/enzowebsite/static/js/2.13cecab4.chunk.js",
     "static/js/2.13cecab4.chunk.js.map": "/enzowebsite/static/js/2.13cecab4.chunk.js.map",
     "index.html": "/enzowebsite/index.html",
-    "precache-manifest.e7e34ac18039bfa149929d5917d64078.js": "/enzowebsite/precache-manifest.e7e34ac18039bfa149929d5917d64078.js",
+    "precache-manifest.34516e47f495c01741e590123cf249e5.js": "/enzowebsite/precache-manifest.34516e47f495c01741e590123cf249e5.js",
     "service-worker.js": "/enzowebsite/service-worker.js",
     "static/css/main.ba49ec77.chunk.css.map": "/enzowebsite/static/css/main.ba49ec77.chunk.css.map",
-    "static/media/jacob.png": "/enzowebsite/static/media/jacob.aec31b6a.png"
+    "static/media/jacob.jpg": "/enzowebsite/static/media/jacob.3a0cb696.jpg"
   }
 }
